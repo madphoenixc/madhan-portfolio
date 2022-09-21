@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/madhan-portfolio/static/css/main.21709002.css",
+    "main.js": "/madhan-portfolio/static/js/main.3dfccd10.js",
+    "static/css/553.3cf855fa.chunk.css": "/madhan-portfolio/static/css/553.3cf855fa.chunk.css",
+    "static/js/553.743f3d63.chunk.js": "/madhan-portfolio/static/js/553.743f3d63.chunk.js",
+    "static/css/563.5db42273.chunk.css": "/madhan-portfolio/static/css/563.5db42273.chunk.css",
+    "static/js/563.2b67ea73.chunk.js": "/madhan-portfolio/static/js/563.2b67ea73.chunk.js",
+    "static/js/910.206bc66e.chunk.js": "/madhan-portfolio/static/js/910.206bc66e.chunk.js",
+    "static/css/845.31d6cfe0.chunk.css": "/madhan-portfolio/static/css/845.31d6cfe0.chunk.css",
+    "static/js/845.808ac26f.chunk.js": "/madhan-portfolio/static/js/845.808ac26f.chunk.js",
+    "static/js/92.8c364e2b.chunk.js": "/madhan-portfolio/static/js/92.8c364e2b.chunk.js",
+    "static/css/310.db977bb0.chunk.css": "/madhan-portfolio/static/css/310.db977bb0.chunk.css",
+    "static/js/310.f2b1a0a9.chunk.js": "/madhan-portfolio/static/js/310.f2b1a0a9.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/madhan-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/js/363.7f0ce01d.chunk.js": "/madhan-portfolio/static/js/363.7f0ce01d.chunk.js",
+    "static/media/background.jpg": "/madhan-portfolio/static/media/background.7b420d3f2bccb09a2951.jpg",
+    "static/media/myphoto.png": "/madhan-portfolio/static/media/myphoto.a298cf740fc62eb1e0b5.png",
+    "index.html": "/madhan-portfolio/index.html",
+    "main.21709002.css.map": "/madhan-portfolio/static/css/main.21709002.css.map",
+    "main.3dfccd10.js.map": "/madhan-portfolio/static/js/main.3dfccd10.js.map",
+    "553.3cf855fa.chunk.css.map": "/madhan-portfolio/static/css/553.3cf855fa.chunk.css.map",
+    "553.743f3d63.chunk.js.map": "/madhan-portfolio/static/js/553.743f3d63.chunk.js.map",
+    "563.5db42273.chunk.css.map": "/madhan-portfolio/static/css/563.5db42273.chunk.css.map",
+    "563.2b67ea73.chunk.js.map": "/madhan-portfolio/static/js/563.2b67ea73.chunk.js.map",
+    "910.206bc66e.chunk.js.map": "/madhan-portfolio/static/js/910.206bc66e.chunk.js.map",
+    "845.808ac26f.chunk.js.map": "/madhan-portfolio/static/js/845.808ac26f.chunk.js.map",
+    "92.8c364e2b.chunk.js.map": "/madhan-portfolio/static/js/92.8c364e2b.chunk.js.map",
+    "310.db977bb0.chunk.css.map": "/madhan-portfolio/static/css/310.db977bb0.chunk.css.map",
+    "310.f2b1a0a9.chunk.js.map": "/madhan-portfolio/static/js/310.f2b1a0a9.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/madhan-portfolio/static/js/787.1ed0c42c.chunk.js.map",
+    "363.7f0ce01d.chunk.js.map": "/madhan-portfolio/static/js/363.7f0ce01d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21709002.css",
+    "static/js/main.3dfccd10.js"
+  ]
+}
